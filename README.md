@@ -14,5 +14,6 @@ All projects and files that were submitted from Jan-Feb 2022 for the Adelaide 42
 
 ```diff
 - C05 : Didn't complete enough tasks
++ Successfully completed the Piscine and joined the 42 Cursus
 ```
 <p align="right"><i>kbrice February 2022</i></p>
